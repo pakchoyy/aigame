@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":12680,"text":"Kamu sehat?"},{"start":14039,"text":"Iya sehat kok sehat-sehat."},{"start":24860,"text":"Kamu yakin nggak ada masalah."},{"start":26860,"text":"Iya,"},{"start":27250,"text":"enggak ada kok enggak apa-apa."},{"start":28819,"text":"Kita pulang dulu yuk."},{"start":30969,"text":"Gimana?"},{"start":31649,"text":"Masih mau lanjut pacaran?"},{"start":32970,"text":"Modal kencan-kencan"},{"start":34369,"text":"Enggak deh,"},{"start":34970,"text":"takut gue enggak bisa."},{"start":35970,"text":"Sekali-kali seorang lelaki"},{"start":37930,"text":"berkhalwat dengan seorang perempuan kecuali beserta ada mahromnya."},{"start":42729,"text":"Dan janganlah seorang perempuan melakukan"},{"start":45369,"text":"musafir kecuali beserta ada mahromnya."}]}]};
+    window.globalLoadJsAsset('story_content/651TfvUdZ8X_transcripts.js', JSON.stringify(data));
+})();
